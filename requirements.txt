@@ -1,5 +1,5 @@
 streamlit==1.25.0
 pandas
 openpyxl==3.0.4
-numpy
+numpy==1.19.5
 lxml
